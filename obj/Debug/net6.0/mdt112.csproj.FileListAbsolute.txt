@@ -1,0 +1,15 @@
+C:\Users\fee\Desktop\mdt112\bin\Debug\net6.0\mdt112.exe
+C:\Users\fee\Desktop\mdt112\bin\Debug\net6.0\mdt112.deps.json
+C:\Users\fee\Desktop\mdt112\bin\Debug\net6.0\mdt112.runtimeconfig.json
+C:\Users\fee\Desktop\mdt112\bin\Debug\net6.0\mdt112.dll
+C:\Users\fee\Desktop\mdt112\bin\Debug\net6.0\mdt112.pdb
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.csproj.AssemblyReference.cache
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.AssemblyInfoInputs.cache
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.AssemblyInfo.cs
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.csproj.CoreCompileInputs.cache
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.dll
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\refint\mdt112.dll
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.pdb
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\mdt112.genruntimeconfig.cache
+C:\Users\fee\Desktop\mdt112\obj\Debug\net6.0\ref\mdt112.dll
